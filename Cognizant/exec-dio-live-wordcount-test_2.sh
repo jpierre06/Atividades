@@ -1,0 +1,1 @@
+python3 dio-live-wordcount-test.py -r emr -c /home/ubuntu/environments/mrjob.conf --cluster-id "j-10IBSZ6FUKTHH" s3://estudo-dio/data/sherlock.txt --output-dir=s3://estudo-dio/output/log-01 --cloud-tmp-dir=s3://estudo-dio/temp/
